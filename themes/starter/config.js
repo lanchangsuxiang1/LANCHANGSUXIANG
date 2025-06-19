@@ -122,56 +122,56 @@ const CONFIG = {
   STARTER_TESTIMONIALS_ITEMS: [
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '感谢大佬的方法。之前尝试过Super、Potion等国外的第三方平台，实现效果一般，个性化程度远不如这个方法，已经用起来了！ ',
+        '之前在某平台推卡，佣金不高，结算率低，提现也慢。蓝畅这边佣金提现当天到账，一分不差。佣金说实话，比我之前推的高15%左右，而且在官网注册直接升钻石一级，额外还多了25元。流量卡种类多，用户好接受。稳，真的稳，后悔没早点换。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F22de3fcb-d90d-4271-bc01-f815f476122b%2F4FE0A0C0-E487-4C74-BF8E-6F01A27461B8-14186-000008094BC289A6.jpg?table=collection&id=a320a2cc-6ebe-4a8d-95cc-ea94e63bced9&width=200',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Ryan_G',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Ryan`Log 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.gaoran.xyz/'
+        'https://raw.githubusercontent.com/lanchangsuxiang1/ImageHost/refs/heads/main/favicon.ico?raw=true',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '代理商',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '很喜欢这个主题，本代码小白用三天台风假期搭建出来了，还根据大佬的教程弄了自定义域名，十分感谢，已请喝咖啡~',
+        '感谢提供这么好的平台哈哈 之前一直有在网上办流量卡 但不知道原来别人能赚佣金 所以为什么不自己注册后台自己办卡自己赚呢 还能推卡给身边朋友赚足生活费 而且蓝畅这个非常简单（btw 别的平台好难好复杂） 嘻嘻 主要是每一个环节都清晰透明 新手非常友好哦',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F0d33d169-f932-41ff-ac6b-88a923c08e02%2F%25E5%25A4%25B4%25E5%2583%258F.jfif?table=collection&id=7787658d-d5c0-4f34-8e32-60c523dfaba3&width=400',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'Asenkits',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '阿森的百宝袋 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://asenkits.top/'
+        'https://raw.githubusercontent.com/lanchangsuxiang1/ImageHost/refs/heads/main/favicon.ico?raw=true',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '大学生',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '呜呜呜，经过一个下午的努力，终于把博客部署好啦，非常感谢Tangly1024大佬的框架和教程，这是我有生之年用过的最好用的博客框架┭┮﹏┭┮。从今之后，我就可以在自己的博客里bb啦，( •̀ ω •́ )y ',
+        '呜呜呜，经过两周的努力，终于能稳定推卡了，每天都赚几百。非常感谢蓝畅的帮助和教程┭┮﹏┭┮。从今之后，我也是卡商啦，( •̀ ω •́ )y ',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F6c096b44-beb9-48ee-8f92-1efdde47f3a3%2F338962f1-d352-49c7-9a1b-746e35a7005c%2Fhf.png?table=block&id=ce5a48a9-d77a-4843-a3d9-a78cd4f794ce&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'DWIND',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '且听风吟 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.dwind.top/'
+        'https://raw.githubusercontent.com/lanchangsuxiang1/ImageHost/refs/heads/main/favicon.ico?raw=true',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '自由职业者',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '感谢提供这么好的项目哈哈 之前一直不知道怎么部署(别的项目好难好复杂)这个相对非常简单 新手非常友好哦',
+        '佣金高，卡的种类也多。之前都是做几个平台，现在就做这个。上月靠这个多赚了1.3万，新人也能快速上手。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fd52f6766-3e32-4c3d-8529-46e1f214360f%2Ffavicon.svg?table=collection&id=7d76aad5-a2c4-4d9a-887c-c7913fae4eed&width=400',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: '迪升disheng ',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'AI资源分享 Blog',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://blog.disheng.org/'
+        'https://raw.githubusercontent.com/lanchangsuxiang1/ImageHost/refs/heads/main/favicon.ico?raw=true',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '代理商',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
       STARTER_TESTIMONIALS_ITEM_TEXT:
-        '灰常感谢大佬的博客项目，能将博客和notion结合起来，这一直是我挺期待的博客模式。',
+        '纯小白试水，就怕流程复杂。结果蓝畅后台非常简单，推卡也不用经常盯。有次出问题，找客服10分钟就处理好！连我这种小白兼职都能月赚5000+，服了。',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fafb21381-f51b-4fd0-9998-800dbeb64dbe%2Favatar.png?table=block&id=195935d2-0d8d-49fc-bd81-1db42ee50840&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'AnJhon',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'Anjhon`s Blog 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.anjhon.top'
+        'https://raw.githubusercontent.com/lanchangsuxiang1/ImageHost/refs/heads/main/favicon.ico?raw=true',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '大学生',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     },
     {
-      STARTER_TESTIMONIALS_ITEM_TEXT: '用好久了，太感谢了',
+      STARTER_TESTIMONIALS_ITEM_TEXT: '带娃空隙赚钱，就图时间自由+钱快。蓝畅佣金是真猛，提现当天就到，上个月提了3800多。客服妹子态度巨好，没嫌我问题多',
       STARTER_TESTIMONIALS_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fe4f391d7-7d65-4c05-a82c-c6e2c40f06e4%2Fa2a7641a26b367608c6ef28ce9b7e983_(2).png?table=block&id=a386eb0e-4c07-4b18-9ece-bba4e79ce21c&spaceId=6c096b44-beb9-48ee-8f92-1efdde47f3a3&width=100&userId=27074aef-7216-41ed-baef-d9b53addd870&cache=v2',
-      STARTER_TESTIMONIALS_ITEM_NICKNAME: 'LUCEN',
-      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: 'LUCEN考验辅导 站长',
-      STARTER_TESTIMONIALS_ITEM_URL: 'https://www.lucenczz.top/'
+        'https://raw.githubusercontent.com/lanchangsuxiang1/ImageHost/refs/heads/main/favicon.ico?raw=true',
+      STARTER_TESTIMONIALS_ITEM_NICKNAME: '匿名',
+      STARTER_TESTIMONIALS_ITEM_DESCRIPTION: '宝妈',
+      STARTER_TESTIMONIALS_ITEM_URL: ''
     }
   ],
 
@@ -208,24 +208,24 @@ const CONFIG = {
   STARTER_TEAM_ITEMS: [
     {
       STARTER_TEAM_ITEM_AVATAR:
-        'https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fa06c61bb-980e-4180-bc18-c15f92c78bb4%2Ftangly1024.jpg?table=collection&id=8e7acf17-de09-4fa1-abde-b5b80ad4a813&t=8e7acf17-de09-4fa1-abde-b5b80ad4a813&width=100&cache=v2',
-      STARTER_TEAM_ITEM_NICKNAME: 'Tangly',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Developer'
-    },
-    {
-      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-01.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Melissa Tatcher',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Marketing Expert'
+        '/images/starter/team/team-01.png',
+      STARTER_TEAM_ITEM_NICKNAME: '中国移动',
+      STARTER_TEAM_ITEM_DESCRIPTION: '中国移动通信集团有限公司'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-02.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Stuard Ferrel',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Digital Marketer'
+      STARTER_TEAM_ITEM_NICKNAME: '中国电信',
+      STARTER_TEAM_ITEM_DESCRIPTION: '中国电信集团有限公司'
     },
     {
       STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-03.png',
-      STARTER_TEAM_ITEM_NICKNAME: 'Eva Hudson',
-      STARTER_TEAM_ITEM_DESCRIPTION: 'Creative Designer'
+      STARTER_TEAM_ITEM_NICKNAME: '中国联通',
+      STARTER_TEAM_ITEM_DESCRIPTION: '中国联合网络通信集团有限公司'
+    },
+    {
+      STARTER_TEAM_ITEM_AVATAR: '/images/starter/team/team-04.png',
+      STARTER_TEAM_ITEM_NICKNAME: '中国广电',
+      STARTER_TEAM_ITEM_DESCRIPTION: '中国广电网络股份有限公司'
     }
   ],
 
@@ -300,45 +300,45 @@ const CONFIG = {
       TITLE: '关于我们',
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
-        { TITLE: '操作文档', URL: 'https://docs.tangly1024.com/about' },
+        { TITLE: '官方店铺', URL: 'https://t.nnkj77.com/c/282828' },
         {
-          TITLE: '帮助支持',
-          URL: 'https://docs.tangly1024.com/article/how-to-question'
+          TITLE: '',
+          URL: ''
         },
         {
-          TITLE: '合作申请',
-          URL: 'https://docs.tangly1024.com/article/my-service'
+          TITLE: '',
+          URL: ''
         }
       ]
     },
     {
-      TITLE: '功能特性',
+      TITLE: '帮助中心',
       LINK_GROUP: [
         {
-          TITLE: '部署指南',
-          URL: 'https://docs.tangly1024.com/article/vercel-deploy-notion-next'
+          TITLE: '官方微信',
+          URL: 'https://lanchangsuxiang.vercel.app/wechat'
         },
         {
-          TITLE: '升级指南',
-          URL: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          TITLE: '',
+          URL: ''
         },
-        { TITLE: '最新版本', URL: 'https://docs.tangly1024.com/article/latest' }
+        { TITLE: '', URL: '' }
       ]
     },
     {
-      TITLE: 'Notion写作',
+      TITLE: '访问平台',
       LINK_GROUP: [
         {
-          TITLE: 'Notion开始写作',
-          URL: 'https://docs.tangly1024.com/article/start-to-write'
+          TITLE: '移动端',
+          URL: 'https://t.nnkj77.com/app/282828'
         },
         {
-          TITLE: '快捷键提升效率',
-          URL: 'https://docs.tangly1024.com/article/notion-short-key'
+          TITLE: '桌面端',
+          URL: 'https://api.nnkj77.com'
         },
         {
-          TITLE: '中国大陆使用Notion',
-          URL: 'https://docs.tangly1024.com/article/notion-faster'
+          TITLE: '',
+          URL: ''
         }
       ]
     }
